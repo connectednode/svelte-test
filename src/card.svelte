@@ -1,8 +1,8 @@
 <script>
-    let card = {
-        suit : "♦",
+    export let card = {
+        suit : "",
         face: ""
-    }
+        }
 
 
 </script>
@@ -15,12 +15,12 @@
         border-radius: 30px;
         height: 92mm;
         width: 59mm;
+        font-size: xx-large;
     }
 </style>
 
 <div>
-    &#9824;
-    &#9829;
-    &#9827;
     {card.suit}
+    <br>
+    {card.face}
 </div>

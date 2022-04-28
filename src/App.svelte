@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<Card></Card>
+<Card card = {{ suit: "♥", face: "Q" }}></Card>
 </main>
 
 <style>
