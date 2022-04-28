@@ -1,0 +1,8 @@
+spade_html: &#9824;
+spade: ♠
+heart_html: &#9829;
+heart: ♥
+club_html: &#9827;
+club: ♣
+diamond_html: &#9830;
+diamond:♦
